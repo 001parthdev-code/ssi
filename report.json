@@ -1,0 +1,72 @@
+{
+  "query": "What financial losses have been caused by AI in finance?",
+  "depth": "extreme",
+  "summary": "Search results indicate that AI-related financial losses in the sector involve increased fraud, operational risks, and potential systemic impacts, with specific figures varying between historical survey data and future projections.",
+  "findings": [
+    "A survey of financial institutions found that 51% reported losing millions to AI-enabled crime in the past year (2023) [8].",
+    "Specific losses reported by these institutions ranged between $5 million and $25 million per year [8].",
+    "The Deloitte Center for Financial Services estimates generative AI email fraud losses could total about US$11.5 billion by 2027 in an aggressive adoption scenario [10].",
+    "60% of US companies reported increased fraud losses between 2024 and 2025 according to one source [6].",
+    "Banks and financial services firms with AI incidents have higher bankruptcy risk and lower operational cash flows compared to firms without such incidents [2].",
+    "AI-related risks include data breaches, cyber-attacks, and fraud which can cause financial losses and reputational damages eroding consumer trust [3]."
+  ],
+  "sources": [
+    {
+      "title": "AI-Driven Financial Crimes Continue to Raise Red Flags",
+      "url": "https://www.rehmann.com/resource/ai-driven-financial-crimes-continue-to-raise-red-flags/",
+      "snippet": "Bank security, fraud prevention, compliance, and IT professionals are pressed to manage multiple challenges when combatting financial fraud, but the malicious use of generative AI (GAI) — and the rapidly escalating losses it's causing — suggest that preventing and combatting AI-related financial fraud must be a top priority now and in the ..."
+    },
+    {
+      "title": "How artificial intelligence incidents affect banks and financial ...",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1544612324013084",
+      "snippet": "Compared to firms without AI incidents, banks and financial services firms with AI incidents have higher bankruptcy risk and lower operational cash flows. To our knowledge, this is the first study analyzing the AI incident impact on the performance of banks and financial services firms."
+    },
+    {
+      "title": "AI in finance - OECD",
+      "url": "https://www.oecd.org/en/topics/sub-issues/digital-finance/artificial-intelligence-in-finance.html",
+      "snippet": "The use of AI in finance creates potential risks for institutions, including biased or flawed AI model results, data breaches, cyber-attacks and fraud, which can cause financial losses and reputational damages eroding consumer trust."
+    },
+    {
+      "title": "PDF AI and Operational Losses: Evidence from U.S. Bank Holding Companies",
+      "url": "https://www.bostonfed.org/-/media/Documents/events/2025/stress-testing-research-conference/McLemore_AIandOpLosses.pdf",
+      "snippet": "The impact of AI investments on operational losses significantly varies by loss type and is driven by external fraud, client-related issues, and system failures. These losses stem not only from small, frequent incidents but also from severe, tail-risk events."
+    },
+    {
+      "title": "Artificial intelligence and financial crises - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1572308925000828",
+      "snippet": "The relationship between artificial intelligence (AI) 1 and financial crises is poorly understood, motivating our work. We use a game-theoretic framework to identify how AI impacts financial stability, finding that it can both stabilise and destabilise the financial system, depending on the severity of the shocks it faces and how prepared the financial authorities are. As current regulatory ..."
+    },
+    {
+      "title": "AI Fraud Statistics 2026 | Deepfake Scams, Losses & Facts",
+      "url": "https://theworlddata.com/ai-fraud-statistics/",
+      "snippet": "The corporate response to AI fraud in 2026 is being shaped by a combination of financial urgency and strategic uncertainty — financial urgency because 60% of US companies reported increased fraud losses between 2024 and 2025, and strategic uncertainty because the speed of AI-powered attack innovation is outpacing the development of reliable ..."
+    },
+    {
+      "title": "PDF Artificial Intelligence in Financial Services",
+      "url": "https://home.treasury.gov/system/files/136/Artificial-Intelligence-in-Financial-Services.pdf",
+      "snippet": "I. EXECUTIVE SUMMARY On June 12, 2024, the United States Department of the Treasury (Treasury) published a request for information on the Uses, Opportunities, and Risks of Artificial Intelligence (AI) in the Financial Services Sector (AI RFI).1 Through the AI RFI, Treasury sought input on key issues relating to AI deployment within the financial services sector, including the opportunities and ..."
+    },
+    {
+      "title": "Survey: Financial institutions losing millions to AI-powered fraud",
+      "url": "https://bankingjournal.aba.com/2024/04/survey-financial-institutions-losing-millions-to-ai-powered-fraud/",
+      "snippet": "Slightly more than half of financial institutions said in a recent survey that they had lost between $5 million and $25 million to artificial intelligence-based threats in 2023. The survey of financial institutions in the U.S. and 10 other countries by the security services firm BioCatch found that 51% of respondents said they had lost millions to AI-enabled crime in the past year. At the same ..."
+    },
+    {
+      "title": "When AI Meets Finance: Risk Management in the Age of Intelligent ...",
+      "url": "https://www.ajg.com/news-and-insights/ai-risk-management-intelligent-financial-institutions/",
+      "snippet": "AI is reshaping underwriting, fraud detection and customer interactions while introducing new risk and regulatory challenges."
+    },
+    {
+      "title": "Deepfake banking and AI fraud risk | Deloitte Insights",
+      "url": "https://www.deloitte.com/us/en/insights/industry/financial-services/deepfake-banking-fraud-risk-on-the-rise.html",
+      "snippet": "The Deloitte Center for Financial Services estimates that generative AI email fraud losses could total about US$11.5 billion by 2027 in an \"aggressive\" adoption scenario. Banks have been at the forefront of using innovative technologies to fight fraud for decades."
+    }
+  ],
+  "limitations": [
+    "Search snippets are unverified excerpts that may not represent the full content of the original documents.",
+    "Some figures (e.g., $11.5 billion by 2027) represent future projections rather than confirmed historical losses.",
+    "Several sources discuss risks and general loss mechanisms without providing specific monetary values in the provided text [1, 3, 4].",
+    "The date of some data points (e.g., 2026 statistics) suggests a forward-looking perspective or potential future-dated reporting.",
+    "Only search-result excerpts were analyzed; original pages were not retrieved or verified."
+  ]
+}
